@@ -8,15 +8,17 @@ AI-powered SaaS application to **generate short videos in seconds** using natura
 
 ## 🧠 What is it?
 
-**AI Short Video Generator** is a full-stack application built to showcase how modern AI tools and web technologies can be combined to generate media-rich content programmatically. 
+**AI Short Video Generator** is a full-stack application built to showcase how modern AI tools and web technologies can be combined to generate media-rich content programmatically.
 
 Users can:
+
 - Enter a story type or custom prompt
 - Choose an image generation style (Animated, Cartoon, Comic, Realistic, Watercolor)
 - Automatically generate a script, visuals, voice-over, and captions
 - Download or export the generated short video
 
 This project includes:
+
 - Authenticated user dashboard
 - Credit system (free tier: 5 videos / 50 credits)
 - Video generation based on category
